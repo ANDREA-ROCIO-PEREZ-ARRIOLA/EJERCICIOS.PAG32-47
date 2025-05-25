@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
        Animal animal = new Animal();
 
+       //Constructor vacío de la clase Animal
        animal.setNombre("Nombre: Perro");
        animal.setOrden("Orden: Carnivoro");
        animal.setExtremidades("Extremidades: Cuatro patas");
@@ -14,3 +15,4 @@ public class Main {
     }
 
 }
+ 
