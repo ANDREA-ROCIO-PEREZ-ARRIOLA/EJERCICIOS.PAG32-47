@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.Arrays;
 public class Frutas {
 
 /*PRIMER EJERCICIO: Desarrollar un programa que permita almacenar 10 nombres de fru
