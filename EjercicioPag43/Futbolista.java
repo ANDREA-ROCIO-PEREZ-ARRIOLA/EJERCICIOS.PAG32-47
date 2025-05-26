@@ -37,4 +37,13 @@ public class Futbolista extends Integrantes{
     public void entrenar() {
         System.out.println("Entrenando...");
     }
+
+    @Override   
+    public void concentrarse() {
+        System.out.println("Concentrándose el futbolista: ");
+    }
+    @Override
+    public void viajar() {
+        System.out.println("Viajando el futbolista: ");
+    }
 }
